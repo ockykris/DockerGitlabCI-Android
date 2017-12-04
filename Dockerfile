@@ -1,4 +1,4 @@
-FROM kristant/Docker-Ubuntu:14.04
+FROM kristant/docker-ubuntu:14.04
 MAINTAINER Ocky Kristanto <ockykris@gmail.com>
 
 ENV VERSION_SDK_TOOLS "3859397"
